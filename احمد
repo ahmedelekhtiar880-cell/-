@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>دعوة زفاف</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; background: #f4f4f9; padding: 50px; }
+        .card { background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); display: inline-block; }
+        h1 { color: #8e44ad; }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <p>يسرنا دعوتكم لحضور حفل زفاف</p>
+        <h1>محمد & روان</h1>
+        <p>الخميس، 3 سبتمبر 2026</p>
+    </div>
+</body>
+</html>
